@@ -1,0 +1,44 @@
+1. znajomość python (7/10)
+- jak długo pracuje z językiem      3+ lata
+- jakie zna wersje                  3.7-3.12
+- jakie implementacje               CPython
+- znajomość async                   7/10
+- generatory list comprehension     9/10
+- socket-y i programowanie sieciowe 5/10
+
+2. znajomość postgresql             3/10
+- znajomość zaawansowanych zagadnień (np. windowing functions, replikacje czy load balancing) 0/10
+- znajomość innych rdbms/database engine/big data # pracowałem rownież z mysql, oraclesql
+
+3. znajomość linuxa # 6/10
+- jak długo zna/używa # 2 lata
+- jako użytkownik czy administrator # użytkownik
+- jakie dystrybucje # najpierw, jak i wszyscy - Ubuntu, potem przesiadłem na Linux Mint
+
+4. znajomość git (kontrola wersji) # 6/10
+- znajomość innych systemów (git, svn, csv, inne) # only git <3
+
+5. znajomość IDE do programowania  # 8/10
+- jakie IDE     PyCharm / VSCode, zależy od projektu
+
+6. znajomość programowania webserwisów (klient i serwer) # 5/10
+- jakie (REST, SOAP, XMLRPC, g, itp.)  # robię często RESTful API na Django Rest Framework
+
+7. znajomość XML, XPath, XSLT # 2/10
+
+8. znajomość protokołów komunikacyjnych # 3/10
+- HTTP, websocket i innych (określić wszystkie które się zna)
+
+10. tworzenie HTML # 4/10
+
+11. używanie CSS # 4/10
+- czy używa meta-języków SCSS, SASS, LESS itp. # nie
+
+12. czy zna JavaScript # 2/10
+- które wersje
+- jakie frameworki
+- TS
+
+12. znajomość rozwiązań chmurowych (docker, kubernetes i usług providerów AWS, Microsoft Azure, Google Cloud - i inne.) # 3/10
+- jakie # docker, Amazon AWS, DigitalOcean
+- jak długo zna/używa # <1 rok
